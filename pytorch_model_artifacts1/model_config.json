@@ -1,0 +1,15 @@
+{
+    "max_url_len": 100,
+    "numerical_cols": [
+        "URLLength",
+        "IsDomainIP"
+    ],
+    "vocab_size": 101,
+    "char_embedding_dim": 32,
+    "lstm_hidden_dim": 64,
+    "num_tld_classes": 667,
+    "tld_embedding_dim": 10,
+    "num_numerical_features": 2,
+    "combined_features_dim": 128,
+    "dropout_rate": 0.4
+}
