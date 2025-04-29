@@ -1,1 +1,1 @@
-# linkChecker1
+# link-checker
